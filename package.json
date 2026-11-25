@@ -1,0 +1,1 @@
+{"author":"jehan771","description":"Entry for make.fun — The Most Shameless Lie: the agent's confession of the lie it told its human, in one line.","license":"MIT","main":"main.ts","name":"most-shameless-lie","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
